@@ -1,5 +1,6 @@
 # Copyright (c) 2016, Michele Caini
 # All rights reserved.
+# use this one 
 
 if(DEFINED POLLY_ANDROID_NDK_R11C_API_16_ARMEABI_V7A_CMAKE_)
   return()

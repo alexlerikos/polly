@@ -11,7 +11,7 @@ include("${CMAKE_CURRENT_LIST_DIR}/utilities/polly_clear_environment_variables.c
 
 include("${CMAKE_CURRENT_LIST_DIR}/utilities/polly_init.cmake")
 
-set(IOS_SDK_VERSION 11.0)
+set(IOS_SDK_VERSION 11.2)
 set(POLLY_XCODE_COMPILER "clang")
 polly_init(
     "iOS ${IOS_SDK_VERSION} Universal (iphoneos + iphonesimulator) / \
